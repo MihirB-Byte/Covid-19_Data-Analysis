@@ -1,10 +1,19 @@
-Paragraph on Covid-19
-
 Dataset used:
 
 Collected data from various sources. JHU ,WHO and Kaggle
 
-Questions or insights to find
+Insights gathered from data analysis 
 
 -top 10 States with most active cases
+
 -top 10 States with most deaths
+
+-Top states with highest deaths
+
+-Growth trend
+
+-Male vs Female vaccination
+
+-Most vaccinated States
+
+-least vaccinated States
